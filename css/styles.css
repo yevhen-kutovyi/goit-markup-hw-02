@@ -101,7 +101,7 @@ body {
   line-height: 1.71;
 }
 /* main-activities */
-.title {
+.activities-team-title {
   font-size: 36px;
   line-height: 1.17;
   text-align: center;
@@ -111,9 +111,6 @@ body {
 /* main-our-team */
 .section-team {
   background-color: var(--additional-background-color);
-}
-.team-title {
-  color: var(--title-text-color);
 }
 .team-name {
   font-weight: 500;
