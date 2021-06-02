@@ -37,6 +37,7 @@ body {
 }
 .navigation-link {
   text-decoration: none;
+  }
 
   font-weight: 500;
   font-size: 14px;
@@ -80,6 +81,7 @@ body {
   letter-spacing: 0.06em;
   background-color: var(--accent-color);
   color: var(--secondary-text-color);
+  cursor: pointer;
 }
 /* main-features */
 .hidden {
@@ -168,6 +170,7 @@ footer {
   font-size: 16px;
   line-height: 1.62;
   color: var(--title-text-color);
+  cursor: pointer;
 }
 .catalog-button:hover,
 .catalog-button:focus,
