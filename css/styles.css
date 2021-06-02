@@ -35,7 +35,7 @@ body {
 .logo-firstpart {
   color: var(--accent-color);
 }
-.link {
+.navigation-link {
   text-decoration: none;
 
   font-weight: 500;
@@ -44,18 +44,18 @@ body {
   letter-spacing: 0.02em;
   color: var(--title-text-color);
 }
-.site-nav .link:hover,
-.site-nav .link:focus {
+.site-nav .navigation-link:hover,
+.site-nav .navigation-link:focus {
   color: var(--accent-color);
 }
-.site-nav .link.current {
+.site-nav .navigation-link.current {
   color: var(--accent-color);
 }
-.contacts .link {
+.contacts .navigation-link {
   color: var(--primary-text-color);
 }
-.contacts .link:hover,
-.contacts .link:focus {
+.contacts .navigation-link:hover,
+.contacts .navigation-link:focus {
   color: var(--accent-color);
 }
 /* main-hero */
